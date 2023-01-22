@@ -1,0 +1,23 @@
+company_name : MACKENZIEMODERNITSOLUTIONSPVTLTD
+(MoreJobs)
+skills:DataScience,Matplotlib,Git,Panda,Aws,Numpy,PythonScripting,BusinessProcess,Testing
+more_info:https://www.timesjobs.com/job-detail/python-developer-python-programmer-mackenzie-modern-it-solutions-pvt-ltd-ahmedabad-bengaluru-bangalore-chennai-delhi-delhi-ncr-2-to-7-yrs-jobid-35d7jSW30eZzpSvf__PLUS__uAgZw==&source=srp
+ company_name : toolyt
+skills:algorithms,python,machinelearning,django
+more_info:https://www.timesjobs.com/job-detail/python-developer-toolyt-bengaluru-bangalore-4-to-5-yrs-jobid-1N2Xh9YQwJxzpSvf__PLUS__uAgZw==&source=srp
+ company_name : PerfiosSoftware
+skills:python,java,scala
+more_info:https://www.timesjobs.com/job-detail/python-developer-perfios-software-bengaluru-bangalore-5-to-8-yrs-jobid-5GGtzEeKMXxzpSvf__PLUS__uAgZw==&source=srp
+ company_name : MACKENZIEMODERNITSOLUTIONSPVTLTD
+(MoreJobs)
+skills:DataScience,Matplotlib,Git,Panda,Aws,Numpy,PythonScripting,BusinessProcess,Testing
+more_info:https://www.timesjobs.com/job-detail/python-developer-python-programmer-mackenzie-modern-it-solutions-pvt-ltd-ahmedabad-bengaluru-bangalore-chennai-delhi-delhi-ncr-2-to-7-yrs-jobid-35d7jSW30eZzpSvf__PLUS__uAgZw==&source=srp
+
+company_name : toolyt
+skills:algorithms,python,machinelearning,django
+more_info:https://www.timesjobs.com/job-detail/python-developer-toolyt-bengaluru-bangalore-4-to-5-yrs-jobid-1N2Xh9YQwJxzpSvf__PLUS__uAgZw==&source=srp
+
+company_name : PerfiosSoftware
+skills:python,java,scala
+more_info:https://www.timesjobs.com/job-detail/python-developer-perfios-software-bengaluru-bangalore-5-to-8-yrs-jobid-5GGtzEeKMXxzpSvf__PLUS__uAgZw==&source=srp
+
